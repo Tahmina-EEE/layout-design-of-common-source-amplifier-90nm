@@ -1,12 +1,14 @@
 # Layout Design of CMOS Common Source Amplifier (90nm)
 
 ## Introduction
-A common source amplifier is one of the most basic CMOS analog amplifier configurations and is widely used for voltage amplification. This project presents the schematic and layout design of a CMOS common source amplifier using Cadence Virtuoso in 90nm technology.
+A common source amplifier is one of the most fundamental CMOS analog amplifier configurations, widely used for voltage amplification due to its high gain characteristics.
+This project presents the schematic and layout design of a CMOS common source amplifier using **Cadence Virtuoso** in **90nm technology**, followed by DRC and LVS verification to ensure layout correctness.
 
 
 ## Tools and Technology
 Tool: Cadence Virtuoso
 Technology: 90nm CMOS
+Design Type: Analog IC Layout
 
 
 ## Circuit Description
@@ -17,14 +19,15 @@ Output taken from the drain of NMOS
 
 
 ## Layout Design
-Layout designed following 90nm design rules
-Matching maintained between transistors
-Guard rings used for noise reduction
+Proper matching between transistors
+Minimum parasitic capacitance at output node
+Guard rings used for substrate noise reduction
+Design rules followed according to 90nm technology
 
 
 ## Verification
-DRC: Passed
-LVS: Matched
+Design Rule Check (DRC): Passed
+Layout Versus Schematic (LVS): Matched
 
 
 ## Author
