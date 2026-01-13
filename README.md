@@ -1,2 +1,5 @@
-# layout-design-of-current-mirror-90nm
-CMOS current mirror layout design using Cadence Virtuoso in 90nm technology.  Includes schematic, layout, DRC and LVS verification results.
+# layout-design-of-current-mirror-90nmThis repository presents the complete CMOS current mirror design flow using Cadence Virtuoso in 90nm CMOS technology. 
+A complete CMOS current mirror design using Cadence Virtuoso in 90nm technology, including schematic design, 
+layout implementation, and physical verification through DRC and LVS.
+
+
