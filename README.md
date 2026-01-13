@@ -29,23 +29,23 @@ and operating point of the common source amplifier.
 ## 📷 Design Images
 
 ### 🔹 Schematic
-![Common Source Amplifier Schematic](Screenshots/cs_amplifier_schematic.png)
+[Common Source Amplifier Schematic](Common%20Source%20Amplifier%20Schematic)
 
 
 ### 🔹 PMOS Transistor W/L Ratio
-![PMOS W-L Ratio](Screenshots/pmos_wl_ratio.png)
+[Pmos_WL_ratio.png](Pmos_WL_ratio.png)
 
 
 ### 🔹 NMOS Transistor W/L Ratio
-![NMOS W-L Ratio](Screenshots/nmos_wl_ratio.png)
+[nmos_WL_ratio.png](nmos_WL_ratio.png)
 
 
 ### 🔹 Layout
-![Common Source Amplifier Layout](Screenshots/cs_amplifier_layout.png)
+[CM_layout.png](CM_layout.png)
 
 
 ### 🔹 Design Rule Check (DRC)
-![DRC Result](Screenshots/cs_amplifier_drc.png)
+[CM_NoDRC.png](CM_NoDRC.png)
 
 
 ### 🔹 Layout Versus Schematic (LVS)
